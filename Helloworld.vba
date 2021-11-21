@@ -1,7 +1,6 @@
 Module Program
     Sub Main()
         Console.WriteLine("Hello World ")
-        Console.Write("Press any key to exit... ")
-        Console.ReadKey(True)
+        
     End Sub
 End Module
